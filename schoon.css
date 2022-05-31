@@ -1,0 +1,74 @@
+<style>
+
+body {
+
+}
+H1  {
+color: white;
+font-style: "oblique";	
+font-weight: 800;
+font-size: 100px;
+}      
+p    {
+color: white;
+font-size: 20;
+}
+.header {
+     text-align: center;
+}
+	H2  {
+color: white;
+}
+
+.column {
+	border-style: dashed;
+	border-color: white;
+	width: 700px;
+	padding: 40px;
+	margin: 20px;
+	margin: 0px auto;
+	background-color: #444444;
+}
+.column2 {
+	border-style: dashed;
+	border-color: white;
+	width: 700px;
+	padding: 40px;
+	margin: 20px;
+	margin: 0px auto;
+    background-color: #444444;
+}
+
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #444444;
+  font-family: "Lucida Console", Courier, monospace;
+
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 16px 20px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+
+.active {
+  background-color: grey;
+}
+</style>
+
